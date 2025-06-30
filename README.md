@@ -4,6 +4,5 @@ I'm a Senior Software Engineer specializing in backend Java development with Spr
 
 - 🔭 Currently working on custom feature requests and improving backend infrastructure at RouteOne
 - 🌱 Learning Angular and expanding full-stack skills
-- 💬 Ask me about Java, microservices, or CI/CD pipelines
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/thomas-c-kelly)
 - 🥁🎸 I love to play drums and guitar
